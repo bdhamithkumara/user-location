@@ -1,7 +1,7 @@
 {
   "name": "user-location-finder",
   "version": "1.0.2",
-  "description": "The user-location package provides a simple and efficient way to retrieve the user's current location, including the country and town/city, directly from their browser. It utilizes the browser's built-in Geolocation API combined with the BigDataCloud reverse geocoding service to convert geographical coordinates (latitude and longitude) into readable location information.",
+  "description": "The user location finder package provides a simple and efficient way to retrieve the user's current location, including the country and town/city, directly from their browser. It utilizes the browser's built-in Geolocation API combined with the BigDataCloud reverse geocoding service to convert geographical coordinates (latitude and longitude) into readable location information.",
   "main": "index.js",
   "types": "index.d.ts",
   "scripts": {
