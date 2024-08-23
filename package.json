@@ -7,6 +7,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bdhamithkumara/user-location-finder"
+  },
   "keywords": ["geolocation", "location", "country", "city", "town", "reverse geocoding", "user location", "javascript", "npm"],
   "author": "@bdhamithkumara",
   "license": "MIT",
