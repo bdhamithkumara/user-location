@@ -7,9 +7,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["geolocation", "location", "country", "city", "town", "reverse geocoding", "user location", "javascript", "npm"],
+  "author": "@bdhamithkumara",
+  "license": "MIT",
   "dependencies": {
     "axios": "^1.7.4",
     "geolib": "^3.3.4"
